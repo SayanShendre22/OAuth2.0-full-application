@@ -13,5 +13,6 @@ This project is a full implementation of OAuth2.0 for secure authentication and 
 ## Technologies Used
 - Java/Spring Boot
 - JavaScript/React + Vite
+- Keycloak
 
 
