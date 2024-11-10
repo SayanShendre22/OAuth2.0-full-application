@@ -1,8 +1,17 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# OAuth2.0 Full Application
 
-Currently, two official plugins are available:
+This project is a full implementation of OAuth2.0 for secure authentication and authorization. It demonstrates how to build a scalable, secure, and easy-to-integrate authentication flow.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- User authentication using OAuth2.0
+- Secure token management
+- Role-based access control
+- Login by Google/Linkdin...etc
+
+## Technologies Used
+- Java/Spring Boot
+- JavaScript/React + Vite
+
+
