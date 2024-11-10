@@ -1,0 +1,6 @@
+com\res\server\controller\MyController.class
+com\res\server\service\model\Product.class
+com\res\server\config\SecurityConfig.class
+com\res\server\ProductManagerApplication.class
+com\res\server\service\ProductService.class
+com\res\server\controller\HomeController.class
